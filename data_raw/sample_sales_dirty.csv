@@ -1,0 +1,6 @@
+order_id,order_date,customer_id,region,product,quantity,unit_price,discount
+1011,2025/01/15,C008,North,Mouse,2,250,0.0
+1012,2025-01-16,,South,Keyboard,NaN,450,0.0
+1013,2025-01-16,C009,South,Keyboard,2,450,not_available
+1014,2025-13-17,C010,East,Monitor,1,3800,0.05
+1015,2025-01-18,C011,West,USB-C Cable,5000,120,0.0

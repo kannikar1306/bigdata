@@ -1,0 +1,11 @@
+order_id,order_date,customer_id,region,product,quantity,unit_price,discount
+1001,2025-01-03,C001,North,Keyboard,2,450,0.0
+1002,2025-01-03,C002,South,Mouse,1,250,0.1
+1003,2025-01-04,C003,East,Monitor,1,3800,0.05
+1004,2025-01-05,C002,South,Mouse,3,230,0.0
+1005,2025-01-07,C004,West,USB-C Cable,5,120,0.0
+1006,2025-01-07,C005,North,Laptop Stand,1,950,0.15
+1007,2025-01-08,C001,North,Keyboard,1,455,0.0
+1008,2025-01-10,C006,East,Headset,2,1290,0.2
+1009,2025-01-11,C007,West,HDMI Cable,4,180,0.0
+1010,2025-01-14,C005,North,Laptop Stand,1,920,0.1
